@@ -1,2 +1,3 @@
 Pandas
 Plotly Express
+Streamlit
