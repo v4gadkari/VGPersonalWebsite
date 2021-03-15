@@ -1,3 +1,3 @@
 Pandas
-Plotly Express
+plotly
 Streamlit
